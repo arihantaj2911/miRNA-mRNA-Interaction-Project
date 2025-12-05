@@ -1,0 +1,13 @@
+Logistic Regression Metrics ===
+accuracy: 0.6562
+precision: 0.6582
+recall: 0.6500
+f1_score: 0.6541
+roc_auc: 0.7212
+
+=== Random Forest Metrics ===
+accuracy: 0.7406
+precision: 1.0000
+recall: 0.4813
+f1_score: 0.6498
+roc_auc: 0.7816
