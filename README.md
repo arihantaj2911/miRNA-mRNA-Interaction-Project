@@ -9,10 +9,6 @@ miRNA-mRNA-Interaction-Project/
 │   ├── raw/
 │   ├── processed/
 │
-├── notebooks/
-│   ├── EDA.ipynb
-│   ├── Model_Training.ipynb
-│
 ├── src/
 │   ├── feature_extraction.py
 │   ├── model_training.py
